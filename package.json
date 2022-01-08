@@ -1,0 +1,9 @@
+{
+  "name": "apollo-api",
+  "version": "1.0.0",
+  "description": "apollo api",
+  "main": "index.js",
+  "repository": "https://github.com/NathanJeong/apollo-api",
+  "author": "Nathan Jeong<dh.jeong@idoo.kr>",
+  "license": "MIT"
+}
